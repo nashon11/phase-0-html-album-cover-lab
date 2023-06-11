@@ -25,28 +25,28 @@ body {
   font-size: 100%;
 }
 
-h1 {
+ .album h1 {
   font-size: 12.25em;
   line-height: 1em;
   letter-spacing: .03em;
   margin-bottom: 2px;
 }
 
-h2 {
+#title-box h2 {
   font-size: 5.1em;
   line-height: 1em;
   letter-spacing: .03em;
   margin-bottom: 2px;
 }
 
-h3 {
+.album h3 {
   font-weight: normal;
   letter-spacing: .3em;
   margin-bottom: 18px;
   line-height: 1em;
 }
 
-h4 {
+#title-box h4 {
   font-weight: normal;
   font-size: .7em;
   letter-spacing: .4em;
@@ -70,7 +70,7 @@ span {
   padding-top: 10px;
 }
 
-img {
+.album img {
   display: inline-block;
   margin: 0 40px;
 }
